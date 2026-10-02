@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "tours": [
+    {
+      "tour_id": "DEV-001",
+      "version": "1.0.0",
+      "name": "Catálogo remoto · demostración",
+      "city": "Demo",
+      "country": "España",
+      "theme": "Validación de Tour Packs remotos",
+      "base_duration_min": 10,
+      "pois": [
+        {
+          "id": "DEV-001-01",
+          "name": "Punto remoto de demostración",
+          "priority": "IMPRESCINDIBLE",
+          "lat": 42.81683,
+          "lon": -1.64276,
+          "radius_m": 50,
+          "visit_min": 5,
+          "hilo": "Prueba del catálogo remoto.",
+          "orientation": "Este punto existe únicamente para validar la descarga remota.",
+          "audio": "Si estás escuchando este contenido, la app ha recibido un Tour Pack remoto sin estar integrado en el APK.",
+          "more": "Contenido sintético de desarrollo.",
+          "look_at": [
+            "Punto de demostración"
+          ],
+          "transition": "Fin de la demostración.",
+          "sources": [
+            "https://example.com"
+          ]
+        }
+      ],
+      "stories": []
+    }
+  ]
+}
