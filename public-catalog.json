@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "cities": [
+    {
+      "id": "donostia",
+      "name": "Donostia / San Sebastián",
+      "country": "España",
+      "tourIds": [
+        "DON-001"
+      ]
+    }
+  ],
+  "tours": [
+    {
+      "id": "DON-001",
+      "version": "0.1-pilot",
+      "name": "Donostia · Esencial: Parte Vieja, 1813 y Belle Époque",
+      "cityId": "donostia",
+      "theme": "Historia esencial de Donostia: ciudad amurallada, incendio de 1813, Parte Vieja, Belle Époque y bahía de La Concha",
+      "baseDurationMin": 135,
+      "status": "PILOT",
+      "availableLanguages": [
+        "es"
+      ],
+      "stops": [
+        {
+          "id": "DON-001-01",
+          "name": "Catedral del Buen Pastor",
+          "sources": [
+            "https://accessibility.sansebastianturismoa.eus/es/que-visitar/iglesias/catedral-del-buen-pastor",
+            "https://sansebastianturismoa.eus/hacer/planes-san-sebastian/rutas-a-pie/arte-naturaleza/recorrido-completo/"
+          ]
+        },
+        {
+          "id": "DON-001-02",
+          "name": "Plaza Gipuzkoa",
+          "sources": [
+            "https://sansebastianturismoa.eus/parques-y-jardines/plaza-gipuzkoa/"
+          ]
+        },
+        {
+          "id": "DON-001-03",
+          "name": "Teatro Victoria Eugenia y Hotel María Cristina",
+          "sources": [
+            "https://sansebastianturismoa.eus/hacer/planes-san-sebastian/rutas-a-pie/paseo-san-sebastian-woody-allen/recorrido-completo/",
+            "https://sansebastianturismoa.eus/area-romantica/"
+          ]
+        },
+        {
+          "id": "DON-001-04",
+          "name": "Mercado de La Bretxa",
+          "sources": [
+            "https://accessibility.sansebastianturismoa.eus/to-do/routes/parte-vieja-old-town/"
+          ]
+        },
+        {
+          "id": "DON-001-05",
+          "name": "Plaza de la Constitución",
+          "sources": [
+            "https://accessibility.sansebastianturismoa.eus/to-do/routes/parte-vieja-old-town/",
+            "https://sansebastianturismoa.eus/hacer/planes-san-sebastian/rutas-a-pie/ciudad-maritima/recorrido-completo/"
+          ]
+        },
+        {
+          "id": "DON-001-06",
+          "name": "Iglesia de San Vicente",
+          "sources": [
+            "https://accessibility.sansebastianturismoa.eus/es/que-visitar/iglesias/iglesia-de-san-vicente"
+          ]
+        },
+        {
+          "id": "DON-001-07",
+          "name": "San Telmo Museoa",
+          "sources": [
+            "https://www.santelmomuseoa.eus/index.php?Itemid=23&cid=0&id=5&lang=es&option=com_flexicontent&view=items",
+            "https://www.santelmomuseoa.eus/index.php?cid=2%3Aexposiciones&id=75%3Ahistoria-del-sitio&lang=es&option=com_flexicontent&view=items"
+          ]
+        },
+        {
+          "id": "DON-001-08",
+          "name": "Calle 31 de Agosto y Plaza de la Trinidad",
+          "sources": [
+            "https://accessibility.sansebastianturismoa.eus/es/rutas-accesibles/parte-vieja",
+            "https://sansebastianturismoa.eus/cultura/1361-31-de-agosto/"
+          ]
+        },
+        {
+          "id": "DON-001-09",
+          "name": "Basílica de Santa María del Coro",
+          "sources": [
+            "https://accessibility.sansebastianturismoa.eus/que-hacer/lugares-de-interes/basilica-de-santa-maria-del-coro/"
+          ]
+        },
+        {
+          "id": "DON-001-10",
+          "name": "Puerto de Donostia",
+          "sources": [
+            "https://accessibility.sansebastianturismoa.eus/es/rutas-accesibles/parte-vieja",
+            "https://www.freewalkingtoursansebastian.com/port-of-san-sebastian/"
+          ]
+        },
+        {
+          "id": "DON-001-11",
+          "name": "Ayuntamiento, Alderdi Eder y Bahía de La Concha",
+          "sources": [
+            "https://sansebastianturismoa.eus/hacer/playas/playa-de-la-concha/",
+            "https://accessibility.sansebastianturismoa.eus/es/rutas-accesibles/parte-vieja"
+          ]
+        }
+      ]
+    }
+  ]
+}
